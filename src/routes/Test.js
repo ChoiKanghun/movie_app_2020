@@ -12,7 +12,9 @@ class Test extends React.Component {
         this.setState({isLoading:false});
     }
     render() {
-        return <div>hello</div>
+        return (
+		<div>hello</div>
+	)
     }
 
 }
