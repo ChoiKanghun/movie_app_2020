@@ -1,5 +1,9 @@
 # Movie app 2020
+노마드 코더 리액트 수업
+  
+    
+기초적인 리액트 관련 내용들을 학습. 
+    
 
-React JS Fundamentals Course
+첫 리액트 수업이 되었고, 빠른 시간 안에 많은 것들을 배울 수 있었음. 
 
-My first react application. Learned with Nomad coders lecture.
